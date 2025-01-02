@@ -6,10 +6,6 @@ import time
 
 from pygame.locals import *
 
-
-
-
-
 # initialize variables
 
 current_player = 'x'
